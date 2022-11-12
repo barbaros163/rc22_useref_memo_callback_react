@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ce9e8138.js",
-    "index.html": "/index.html",
-    "main.ce9e8138.js.map": "/static/js/main.ce9e8138.js.map"
+    "main.js": "/useref_memo_callback_react/static/js/main.ce9e8138.js",
+    "index.html": "/useref_memo_callback_react/index.html",
+    "main.ce9e8138.js.map": "/useref_memo_callback_react/static/js/main.ce9e8138.js.map"
   },
   "entrypoints": [
     "static/js/main.ce9e8138.js"
